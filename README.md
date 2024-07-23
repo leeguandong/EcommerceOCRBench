@@ -1,0 +1,2 @@
+# EcommerceOCRBench
+电商文字识别的多模态大模型的ocr基准测试集，类似于ocrbench
