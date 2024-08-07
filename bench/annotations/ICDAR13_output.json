@@ -1,0 +1,1042 @@
+[
+    {
+        "dataset_name": "ICDAR13",
+        "id": 0,
+        "image_path": "ICDAR13\\ICDAR13_176.jpg",
+        "question": "what is written in the image?",
+        "answers": "Seatrade House Seatrade Communications Ltd Registered Office",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 1,
+        "image_path": "ICDAR13\\ICDAR13_177.jpg",
+        "question": "what is written in the image?",
+        "answers": "EXIT",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 2,
+        "image_path": "ICDAR13\\ICDAR13_178.jpg",
+        "question": "what is written in the image?",
+        "answers": "WARNING! LOW FLYING AND DEPARTING AIRCRAFT BLAST CAN CAUSE PHYSICAL INJURY",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 3,
+        "image_path": "ICDAR13\\ICDAR13_179.jpg",
+        "question": "what is written in the image?",
+        "answers": "SUMMER THE WHATEVER WEATHER",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 4,
+        "image_path": "ICDAR13\\ICDAR13_180.jpg",
+        "question": "what is written in the image?",
+        "answers": "PLEASE DO NOT DISTURB ...IM RECOVERING!!",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 5,
+        "image_path": "ICDAR13\\ICDAR13_181.jpg",
+        "question": "what is written in the image?",
+        "answers": "PROFESSIONAL SOAP Java Bequet Henry wrox",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 6,
+        "image_path": "ICDAR13\\ICDAR13_182.jpg",
+        "question": "what is written in the image?",
+        "answers": "ARE YOU HERE",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 7,
+        "image_path": "ICDAR13\\ICDAR13_183.jpg",
+        "question": "what is written in the image?",
+        "answers": "Kaiserslautern den 29.04.09 Unterschrift Architekt",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 8,
+        "image_path": "ICDAR13\\ICDAR13_184.jpg",
+        "question": "what is written in the image?",
+        "answers": "PANTENE PRO-V",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 9,
+        "image_path": "ICDAR13\\ICDAR13_185.jpg",
+        "question": "what is written in the image?",
+        "answers": "ESSEX",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 10,
+        "image_path": "ICDAR13\\ICDAR13_186.jpg",
+        "question": "what is written in the image?",
+        "answers": "FREE DELIVERY",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 11,
+        "image_path": "ICDAR13\\ICDAR13_187.jpg",
+        "question": "what is written in the image?",
+        "answers": "Please lock the gate",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 12,
+        "image_path": "ICDAR13\\ICDAR13_188.jpg",
+        "question": "what is written in the image?",
+        "answers": "POCKET FLASH",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 13,
+        "image_path": "ICDAR13\\ICDAR13_189.jpg",
+        "question": "what is written in the image?",
+        "answers": "WALLACE MONUMENT",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 14,
+        "image_path": "ICDAR13\\ICDAR13_190.jpg",
+        "question": "what is written in the image?",
+        "answers": "SANYO PROxtraX MULTIMEDIA PROJECTOR",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 15,
+        "image_path": "ICDAR13\\ICDAR13_191.jpg",
+        "question": "what is written in the image?",
+        "answers": "Verbandstoffe HEPP",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 16,
+        "image_path": "ICDAR13\\ICDAR13_192.jpg",
+        "question": "what is written in the image?",
+        "answers": "WHSmith Summer",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 17,
+        "image_path": "ICDAR13\\ICDAR13_193.jpg",
+        "question": "what is written in the image?",
+        "answers": "ARENA COLCHESTER TOWN! THE OF HEART THE AT",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 18,
+        "image_path": "ICDAR13\\ICDAR13_194.jpg",
+        "question": "what is written in the image?",
+        "answers": "Station park car",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 19,
+        "image_path": "ICDAR13\\ICDAR13_195.jpg",
+        "question": "what is written in the image?",
+        "answers": "CLOCK MUSEUM TYMPERLEYS",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 20,
+        "image_path": "ICDAR13\\ICDAR13_196.jpg",
+        "question": "what is written in the image?",
+        "answers": "FOR RESERVED HIWIS REGULAR you! Thank",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 21,
+        "image_path": "ICDAR13\\ICDAR13_197.jpg",
+        "question": "what is written in the image?",
+        "answers": "The SACK SAD Cafe",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 22,
+        "image_path": "ICDAR13\\ICDAR13_198.jpg",
+        "question": "what is written in the image?",
+        "answers": "hp R invent",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 23,
+        "image_path": "ICDAR13\\ICDAR13_199.jpg",
+        "question": "what is written in the image?",
+        "answers": "PROPER FOOD PRONTO",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 24,
+        "image_path": "ICDAR13\\ICDAR13_200.jpg",
+        "question": "what is written in the image?",
+        "answers": "Java TM ve Guide Language by Guy Steele",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 25,
+        "image_path": "ICDAR13\\ICDAR13_201.jpg",
+        "question": "what is written in the image?",
+        "answers": "DENTAL SURGERY",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 26,
+        "image_path": "ICDAR13\\ICDAR13_202.jpg",
+        "question": "what is written in the image?",
+        "answers": "SERVICES LEISURE ARENA LIMITED Registered Office",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 27,
+        "image_path": "ICDAR13\\ICDAR13_203.jpg",
+        "question": "what is written in the image?",
+        "answers": "NHS",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 28,
+        "image_path": "ICDAR13\\ICDAR13_204.jpg",
+        "question": "what is written in the image?",
+        "answers": "Stationery Box",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 29,
+        "image_path": "ICDAR13\\ICDAR13_206.jpg",
+        "question": "what is written in the image?",
+        "answers": "ISUZU ORDER YOUR",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 30,
+        "image_path": "ICDAR13\\ICDAR13_207.jpg",
+        "question": "what is written in the image?",
+        "answers": "Constantine Room",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 31,
+        "image_path": "ICDAR13\\ICDAR13_208.jpg",
+        "question": "what is written in the image?",
+        "answers": "No mobile phones",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 32,
+        "image_path": "ICDAR13\\ICDAR13_209.jpg",
+        "question": "what is written in the image?",
+        "answers": "Need Brolly? a Just Ask! -",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 33,
+        "image_path": "ICDAR13\\ICDAR13_210.jpg",
+        "question": "what is written in the image?",
+        "answers": "FOR RESERVED SECRETARY CLUB",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 34,
+        "image_path": "ICDAR13\\ICDAR13_211.jpg",
+        "question": "what is written in the image?",
+        "answers": "Miralejo",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 35,
+        "image_path": "ICDAR13\\ICDAR13_212.jpg",
+        "question": "what is written in the image?",
+        "answers": "NatWest",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 36,
+        "image_path": "ICDAR13\\ICDAR13_213.jpg",
+        "question": "what is written in the image?",
+        "answers": "HSBC The world's local bank",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 37,
+        "image_path": "ICDAR13\\ICDAR13_214.jpg",
+        "question": "what is written in the image?",
+        "answers": "Customer Freephone Private Hire Service",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 38,
+        "image_path": "ICDAR13\\ICDAR13_215.jpg",
+        "question": "what is written in the image?",
+        "answers": "PEDESTRIANS",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 39,
+        "image_path": "ICDAR13\\ICDAR13_217.jpg",
+        "question": "what is written in the image?",
+        "answers": "HAIR",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 40,
+        "image_path": "ICDAR13\\ICDAR13_219.jpg",
+        "question": "what is written in the image?",
+        "answers": "BEWARE ALLIGATOR TEETH",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 41,
+        "image_path": "ICDAR13\\ICDAR13_220.jpg",
+        "question": "what is written in the image?",
+        "answers": "SORRY TOILET OUT OF ORDER",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 42,
+        "image_path": "ICDAR13\\ICDAR13_222.jpg",
+        "question": "what is written in the image?",
+        "answers": "Essex County Council Libraries",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 43,
+        "image_path": "ICDAR13\\ICDAR13_223.jpg",
+        "question": "what is written in the image?",
+        "answers": "COOLMINT LISTERINE",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 44,
+        "image_path": "ICDAR13\\ICDAR13_224.jpg",
+        "question": "what is written in the image?",
+        "answers": "Time/system 2006",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 45,
+        "image_path": "ICDAR13\\ICDAR13_225.jpg",
+        "question": "what is written in the image?",
+        "answers": "KIA Cable DLR-3P apter A4382 Nokia 6210 DLR-3P Data Cable",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 46,
+        "image_path": "ICDAR13\\ICDAR13_226.jpg",
+        "question": "what is written in the image?",
+        "answers": "66/1E ESSER",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 47,
+        "image_path": "ICDAR13\\ICDAR13_228.jpg",
+        "question": "what is written in the image?",
+        "answers": "Rayleigh",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 48,
+        "image_path": "ICDAR13\\ICDAR13_229.jpg",
+        "question": "what is written in the image?",
+        "answers": "NEW TRAFFIC SIGNALS AHEAD",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 49,
+        "image_path": "ICDAR13\\ICDAR13_230.jpg",
+        "question": "what is written in the image?",
+        "answers": "Centre Leisure Ipswich Road Greenstead",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 50,
+        "image_path": "ICDAR13\\ICDAR13_231.jpg",
+        "question": "what is written in the image?",
+        "answers": "LOUNGE",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 51,
+        "image_path": "ICDAR13\\ICDAR13_232.jpg",
+        "question": "what is written in the image?",
+        "answers": "ROYAL MAIL E11R",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 52,
+        "image_path": "ICDAR13\\ICDAR13_233.jpg",
+        "question": "what is written in the image?",
+        "answers": "Overseas Relations Office",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 53,
+        "image_path": "ICDAR13\\ICDAR13_234.jpg",
+        "question": "what is written in the image?",
+        "answers": "NO ENTRY WHEN RED LIGHT IS FLASHING",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 54,
+        "image_path": "ICDAR13\\ICDAR13_235.jpg",
+        "question": "what is written in the image?",
+        "answers": "BARCLAYS",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 55,
+        "image_path": "ICDAR13\\ICDAR13_236.jpg",
+        "question": "what is written in the image?",
+        "answers": "Building Web Services with Java TM Making Sense of XML, SOAP, WSDL, and UDDI",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 56,
+        "image_path": "ICDAR13\\ICDAR13_237.jpg",
+        "question": "what is written in the image?",
+        "answers": "HALL OF HEROES",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 57,
+        "image_path": "ICDAR13\\ICDAR13_238.jpg",
+        "question": "what is written in the image?",
+        "answers": "TIFICIAL NTELLIGENCE A MODERN APPROACH STUART RUSSELL PETER NORVIG",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 58,
+        "image_path": "ICDAR13\\ICDAR13_239.jpg",
+        "question": "what is written in the image?",
+        "answers": "SALOON",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 59,
+        "image_path": "ICDAR13\\ICDAR13_240.jpg",
+        "question": "what is written in the image?",
+        "answers": "DELL | INSPIRON 8000",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 60,
+        "image_path": "ICDAR13\\ICDAR13_241.jpg",
+        "question": "what is written in the image?",
+        "answers": "TESCO RACE LIFE FOR UK RESEARCH CANCER",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 61,
+        "image_path": "ICDAR13\\ICDAR13_242.jpg",
+        "question": "what is written in the image?",
+        "answers": "TOYOTA",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 62,
+        "image_path": "ICDAR13\\ICDAR13_243.jpg",
+        "question": "what is written in the image?",
+        "answers": "LADIES",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 63,
+        "image_path": "ICDAR13\\ICDAR13_244.jpg",
+        "question": "what is written in the image?",
+        "answers": "Canon PowerShot",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 64,
+        "image_path": "ICDAR13\\ICDAR13_246.jpg",
+        "question": "what is written in the image?",
+        "answers": "Canon",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 65,
+        "image_path": "ICDAR13\\ICDAR13_248.jpg",
+        "question": "what is written in the image?",
+        "answers": ":Hansol",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 66,
+        "image_path": "ICDAR13\\ICDAR13_249.jpg",
+        "question": "what is written in the image?",
+        "answers": "Africa in Infections risk? is who at Hypertension: genomics Gut International Cooperation EU-funded in Research Health",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 67,
+        "image_path": "ICDAR13\\ICDAR13_250.jpg",
+        "question": "what is written in the image?",
+        "answers": "Way out",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 68,
+        "image_path": "ICDAR13\\ICDAR13_251.jpg",
+        "question": "what is written in the image?",
+        "answers": "Nightline",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 69,
+        "image_path": "ICDAR13\\ICDAR13_252.jpg",
+        "question": "what is written in the image?",
+        "answers": "CAREERS RAF",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 70,
+        "image_path": "ICDAR13\\ICDAR13_253.jpg",
+        "question": "what is written in the image?",
+        "answers": "VINCES",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 71,
+        "image_path": "ICDAR13\\ICDAR13_254.jpg",
+        "question": "what is written in the image?",
+        "answers": "2N 4B.522 OFFICE GRADUATE Marisa Bostock Jenny Dixon",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 72,
+        "image_path": "ICDAR13\\ICDAR13_255.jpg",
+        "question": "what is written in the image?",
+        "answers": "KNOW TO ACCESS BAGGAGE",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 73,
+        "image_path": "ICDAR13\\ICDAR13_256.jpg",
+        "question": "what is written in the image?",
+        "answers": "Colchester",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 74,
+        "image_path": "ICDAR13\\ICDAR13_257.jpg",
+        "question": "what is written in the image?",
+        "answers": "h! O",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 75,
+        "image_path": "ICDAR13\\ICDAR13_258.jpg",
+        "question": "what is written in the image?",
+        "answers": "FIVE FOURS 2a Arthur St Colchester 544444 LICENSED PRIVATE HIRE VEHICLE",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 76,
+        "image_path": "ICDAR13\\ICDAR13_260.jpg",
+        "question": "what is written in the image?",
+        "answers": "TAXI",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 77,
+        "image_path": "ICDAR13\\ICDAR13_261.jpg",
+        "question": "what is written in the image?",
+        "answers": "PanaSyncE70",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 78,
+        "image_path": "ICDAR13\\ICDAR13_262.jpg",
+        "question": "what is written in the image?",
+        "answers": "Panasonic NE-1027",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 79,
+        "image_path": "ICDAR13\\ICDAR13_263.jpg",
+        "question": "what is written in the image?",
+        "answers": "CONSTANTINE",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 80,
+        "image_path": "ICDAR13\\ICDAR13_264.jpg",
+        "question": "what is written in the image?",
+        "answers": "LLOYDS BANK",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 81,
+        "image_path": "ICDAR13\\ICDAR13_265.jpg",
+        "question": "what is written in the image?",
+        "answers": "floor st 1.21 RICOH IESE",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 82,
+        "image_path": "ICDAR13\\ICDAR13_267.jpg",
+        "question": "what is written in the image?",
+        "answers": "LCD2470WVX MultiSync",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 83,
+        "image_path": "ICDAR13\\ICDAR13_268.jpg",
+        "question": "what is written in the image?",
+        "answers": "PROFESSIONAL XML 2nd Edition",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 84,
+        "image_path": "ICDAR13\\ICDAR13_269.jpg",
+        "question": "what is written in the image?",
+        "answers": "Oleg Rostanin Asif Shahab 2.10",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 85,
+        "image_path": "ICDAR13\\ICDAR13_270.jpg",
+        "question": "what is written in the image?",
+        "answers": "autumn/winter 2001",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 86,
+        "image_path": "ICDAR13\\ICDAR13_272.jpg",
+        "question": "what is written in the image?",
+        "answers": "BAE SYSTEMS",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 87,
+        "image_path": "ICDAR13\\ICDAR13_274.jpg",
+        "question": "what is written in the image?",
+        "answers": "School",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 88,
+        "image_path": "ICDAR13\\ICDAR13_275.jpg",
+        "question": "what is written in the image?",
+        "answers": "Health Centre Greenwood House",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 89,
+        "image_path": "ICDAR13\\ICDAR13_276.jpg",
+        "question": "what is written in the image?",
+        "answers": "Henry",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 90,
+        "image_path": "ICDAR13\\ICDAR13_277.jpg",
+        "question": "what is written in the image?",
+        "answers": "Colgate Toothpaste Fluoride",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 91,
+        "image_path": "ICDAR13\\ICDAR13_278.jpg",
+        "question": "what is written in the image?",
+        "answers": "Specialists The Photo",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 92,
+        "image_path": "ICDAR13\\ICDAR13_280.jpg",
+        "question": "what is written in the image?",
+        "answers": "V03 06 plan art",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 93,
+        "image_path": "ICDAR13\\ICDAR13_281.jpg",
+        "question": "what is written in the image?",
+        "answers": "Refill",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 94,
+        "image_path": "ICDAR13\\ICDAR13_282.jpg",
+        "question": "what is written in the image?",
+        "answers": "WELCOME TO SPENCER MARKS & COLLECT CAR BY",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 95,
+        "image_path": "ICDAR13\\ICDAR13_284.jpg",
+        "question": "what is written in the image?",
+        "answers": "ASDA",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 96,
+        "image_path": "ICDAR13\\ICDAR13_285.jpg",
+        "question": "what is written in the image?",
+        "answers": "Constructa Made in Germany",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 97,
+        "image_path": "ICDAR13\\ICDAR13_286.jpg",
+        "question": "what is written in the image?",
+        "answers": "FOR RESERVED HIWIS REGULAR you! Thank",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 98,
+        "image_path": "ICDAR13\\ICDAR13_290.jpg",
+        "question": "what is written in the image?",
+        "answers": "Microsoft",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 99,
+        "image_path": "ICDAR13\\ICDAR13_292.jpg",
+        "question": "what is written in the image?",
+        "answers": "ZANUSSI",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 100,
+        "image_path": "ICDAR13\\ICDAR13_293.jpg",
+        "question": "what is written in the image?",
+        "answers": "TAN",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 101,
+        "image_path": "ICDAR13\\ICDAR13_294.jpg",
+        "question": "what is written in the image?",
+        "answers": "LCD2470WVX MultiSync",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 102,
+        "image_path": "ICDAR13\\ICDAR13_295.jpg",
+        "question": "what is written in the image?",
+        "answers": "BEER GARDEN",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 103,
+        "image_path": "ICDAR13\\ICDAR13_296.jpg",
+        "question": "what is written in the image?",
+        "answers": "Cycleway Closed Ahead",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 104,
+        "image_path": "ICDAR13\\ICDAR13_297.jpg",
+        "question": "what is written in the image?",
+        "answers": "Road Boundary",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 105,
+        "image_path": "ICDAR13\\ICDAR13_298.jpg",
+        "question": "what is written in the image?",
+        "answers": "HSBC",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 106,
+        "image_path": "ICDAR13\\ICDAR13_299.jpg",
+        "question": "what is written in the image?",
+        "answers": "DIGItaL muLtImeDIa and Chapman Nigel Chapman Jenny WILEY",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 107,
+        "image_path": "ICDAR13\\ICDAR13_301.jpg",
+        "question": "what is written in the image?",
+        "answers": "Oleg Rostanin Asif Shahab 2.10",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 108,
+        "image_path": "ICDAR13\\ICDAR13_302.jpg",
+        "question": "what is written in the image?",
+        "answers": "GLEN DOLLAR AND CAMPBELL CASTLE",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 109,
+        "image_path": "ICDAR13\\ICDAR13_303.jpg",
+        "question": "what is written in the image?",
+        "answers": "8017 privileg",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 110,
+        "image_path": "ICDAR13\\ICDAR13_304.jpg",
+        "question": "what is written in the image?",
+        "answers": "Beardwell Construction Limited construction refurbishment maintenance",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 111,
+        "image_path": "ICDAR13\\ICDAR13_306.jpg",
+        "question": "what is written in the image?",
+        "answers": "Sun microsystems",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 112,
+        "image_path": "ICDAR13\\ICDAR13_307.jpg",
+        "question": "what is written in the image?",
+        "answers": "Connells",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 113,
+        "image_path": "ICDAR13\\ICDAR13_308.jpg",
+        "question": "what is written in the image?",
+        "answers": "conditions",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 114,
+        "image_path": "ICDAR13\\ICDAR13_310.jpg",
+        "question": "what is written in the image?",
+        "answers": "Osborne Garages",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 115,
+        "image_path": "ICDAR13\\ICDAR13_311.jpg",
+        "question": "what is written in the image?",
+        "answers": "RED LION SHOPS YARD HIGH STREET",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 116,
+        "image_path": "ICDAR13\\ICDAR13_312.jpg",
+        "question": "what is written in the image?",
+        "answers": "VOLVO",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 117,
+        "image_path": "ICDAR13\\ICDAR13_314.jpg",
+        "question": "what is written in the image?",
+        "answers": "FAX",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 118,
+        "image_path": "ICDAR13\\ICDAR13_317.jpg",
+        "question": "what is written in the image?",
+        "answers": "ARMS DOLLAR THE",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 119,
+        "image_path": "ICDAR13\\ICDAR13_318.jpg",
+        "question": "what is written in the image?",
+        "answers": "PULL",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 120,
+        "image_path": "ICDAR13\\ICDAR13_319.jpg",
+        "question": "what is written in the image?",
+        "answers": "EXIT NIGHT ON 4 FLOOR",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 121,
+        "image_path": "ICDAR13\\ICDAR13_320.jpg",
+        "question": "what is written in the image?",
+        "answers": "Sainsbury's ECONOMY LONG LIFE ORANGE JUICE",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 122,
+        "image_path": "ICDAR13\\ICDAR13_321.jpg",
+        "question": "what is written in the image?",
+        "answers": "Park & Ride P Sats. only",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 123,
+        "image_path": "ICDAR13\\ICDAR13_322.jpg",
+        "question": "what is written in the image?",
+        "answers": "Guidex Folders",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 124,
+        "image_path": "ICDAR13\\ICDAR13_323.jpg",
+        "question": "what is written in the image?",
+        "answers": "ANCIENT MONUMENT CASTLE CAMPBELL",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 125,
+        "image_path": "ICDAR13\\ICDAR13_324.jpg",
+        "question": "what is written in the image?",
+        "answers": "FAIRY EXPERT",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 126,
+        "image_path": "ICDAR13\\ICDAR13_325.jpg",
+        "question": "what is written in the image?",
+        "answers": "iiyama",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 127,
+        "image_path": "ICDAR13\\ICDAR13_326.jpg",
+        "question": "what is written in the image?",
+        "answers": "Canon COMPACT POWER ADAPTER CA-PS100",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 128,
+        "image_path": "ICDAR13\\ICDAR13_327.jpg",
+        "question": "what is written in the image?",
+        "answers": "Professional in Issues Software Engineering rowland diane jack eaton coleman allison frank bott",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "ICDAR13",
+        "id": 129,
+        "image_path": "ICDAR13\\ICDAR13_328.jpg",
+        "question": "what is written in the image?",
+        "answers": "Info@serviplus.de www.serviplus.de Geld einwerfen Betriebsbereit",
+        "type": "OCR"
+    }
+]

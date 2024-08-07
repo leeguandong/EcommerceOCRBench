@@ -1,0 +1,2402 @@
+[
+    {
+        "dataset_name": "RCTW17",
+        "id": 0,
+        "image_path": "RCTW17\\RCTW17_image_2031.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "中国购物商业联盟 武汉海坛科技有限公司 www57gowcom 特约加盟商 NO000000041",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 1,
+        "image_path": "RCTW17\\RCTW17_image_2032.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "易游天下国旅 门市电话：13707102212  北京亲子游1750元人 银联",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 2,
+        "image_path": "RCTW17\\RCTW17_image_2033.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "R X KPT R 开普特 首创云跑概念的好跑步 全球千万消费者二十余年见  绿茵器材 I CAN PLAY... FIBA   motion motion spalding  极速对决          K K Kuson  Kason",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 3,
+        "image_path": "RCTW17\\RCTW17_image_2036.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "特色   PEPSI       脆皮照烧鸡肉饭餐 产品及包装以实物为准",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 4,
+        "image_path": "RCTW17\\RCTW17_image_2040.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "百里挑一 R 旭东 坚果世家   759                     严禁携带易燃易爆物品上车  百里挑一 百里挑一      一元1包  话梅味 旭东  话梅味西瓜子 西瓜子 椒盐味南瓜子       百里挑一",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 5,
+        "image_path": "RCTW17\\RCTW17_image_2042.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "好百年饭店 Beat Centurial Hotel 急招：餐厅 服务员 ",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 6,
+        "image_path": "RCTW17\\RCTW17_image_2043.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": " 皖     我是傻逼     ",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 7,
+        "image_path": "RCTW17\\RCTW17_image_2045.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "myscissors 希色 myscissors 希色",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 8,
+        "image_path": "RCTW17\\RCTW17_image_2046.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "油华中输气",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 9,
+        "image_path": "RCTW17\\RCTW17_image_2047.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": " BH健身 本区五楼 9688        ",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 10,
+        "image_path": "RCTW17\\RCTW17_image_2048.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "让嘴巴去旅行  就挑良品铺子 年货就   良品铺子       食品食尚 食品食尚        果干果脯 饼干糕点 Biscuits 干糕点   海味零食 Seafo 海味零食 Seafood 良品铺子  良品铺子  良品铺子  炭烧腰果 良品食尚 BESTORE   大吉 中国 100积分当 栗 200积分花 168.00        支付宝    ",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 11,
+        "image_path": "RCTW17\\RCTW17_image_2049.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "袁 仙桃袁市医院 XIANTAO YUANSHI HOSPITAL 口腔科 外科 内科 内科 肛肠科 妇产科 诊疗科目： 早点小吃馆 红星特色 王记老 风  信用贷款  健康热",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 12,
+        "image_path": "RCTW17\\RCTW17_image_2050.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "化妆 红妆 好的粉底： 修眉  既是粉底也是护肤品！                     LANCHEN 秀 全新魔幻晶钻系列 A083 A083 联系电话： 联系电话： 13872138988 璀璨上市 13872138988 胡女士 胡女士",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 13,
+        "image_path": "RCTW17\\RCTW17_image_2055.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "美味串串 就是成都味",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 14,
+        "image_path": "RCTW17\\RCTW17_image_2057.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "美女用小春第9天，效果大家",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 15,
+        "image_path": "RCTW17\\RCTW17_image_2058.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "藕土三猪肉  美食早点街 萝卜 长期招商电话15827277708 牛肉大王 邻家私厨 牛  邻家虾庄 主营：炸酱面、热干面、原汤粉／面、 敢为人先 牛肉面馆  凉面  热干面   汤                                              凉面 凉皮  S6",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 16,
+        "image_path": "RCTW17\\RCTW17_image_2063.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 17,
+        "image_path": "RCTW17\\RCTW17_image_2065.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "有房子 更有生活 欢迎保利茉莉公馆业主回家 保利·茉莉公馆 献给茉莉和爱茉莉的人",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 18,
+        "image_path": "RCTW17\\RCTW17_image_2066.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "工程训练中心 ENGINEERING TRAINING CENTER 欢迎使用 支 支付宝 微信支付",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 19,
+        "image_path": "RCTW17\\RCTW17_image_2068.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "新域· 同仁 北京同仁堂   堂 仁同",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 20,
+        "image_path": "RCTW17\\RCTW17_image_2079.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "    稻花香 好又多  号 中华老   好记烟杂店 批发零 烟酒  屯村",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 21,
+        "image_path": "RCTW17\\RCTW17_image_2080.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "车軎",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 22,
+        "image_path": "RCTW17\\RCTW17_image_2082.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "自用老年车",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 23,
+        "image_path": "RCTW17\\RCTW17_image_2083.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "UnionPay 银联 欢迎光临 Welcome  欢乐购 欢乐购 欢乐购    ",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 24,
+        "image_path": "RCTW17\\RCTW17_image_2084.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": " 武汉大学工会委员会 武汉大学老年大学",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 25,
+        "image_path": "RCTW17\\RCTW17_image_2085.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "阳光时尚 SUNNY VOGUE 购物 休闲娱乐 餐饮",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 26,
+        "image_path": "RCTW17\\RCTW17_image_2086.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "墙面定制  ",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 27,
+        "image_path": "RCTW17\\RCTW17_image_2087.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "装化鬼 ",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 28,
+        "image_path": "RCTW17\\RCTW17_image_2088.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": " 此商品请在收银台连扫 春节爆款 年货必备 吉 吉 吉 吉 吉 吉 吉 爆款价 就喝王老吉 吉庆的日子 29.9元／   传世180余年正宗凉茶王老吉 王老吉凉茶 （铝罐）礼盒 310ml*12",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 29,
+        "image_path": "RCTW17\\RCTW17_image_2090.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "慢 卫生间 Restrooms   500m",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 30,
+        "image_path": "RCTW17\\RCTW17_image_2091.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "单间出租 18971216549 单间独卫 15207182527 一室一厅 单独厨卫 单间出租 13469951358 13697329997 单间 13707119677 单间出租 Civilized City 18807107050 文明城市，让生活更美 单间13707119677",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 31,
+        "image_path": "RCTW17\\RCTW17_image_2092.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "童乐园",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 32,
+        "image_path": "RCTW17\\RCTW17_image_2093.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "新东方 XDF.CN 武汉新东方学校 客梯",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 33,
+        "image_path": "RCTW17\\RCTW17_image_2094.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "志宏 R Pastry 榴莲酥 志宏 食品 地道传统味 加盟热线：4008-516591 泰国 榴莲酥 水果之王榴莲酥 泰国秘制工艺 现场烘培专家    榴莲酥￥29.8元／斤 元宝蛋糕 蜂蜜大麻花 菠萝泡芙  金丝肉松饼 ￥19.8元／斤            ",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 34,
+        "image_path": "RCTW17\\RCTW17_image_2095.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "武汉市急救中心光谷站",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 35,
+        "image_path": "RCTW17\\RCTW17_image_2096.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "六味轩 和 膳坊",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 36,
+        "image_path": "RCTW17\\RCTW17_image_2097.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "         美      出口 杆下禁止行人通过 否则后果自负",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 37,
+        "image_path": "RCTW17\\RCTW17_image_2098.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "洗衣房 Laundry room",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 38,
+        "image_path": "RCTW17\\RCTW17_image_2099.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "商会大厦",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 39,
+        "image_path": "RCTW17\\RCTW17_image_2101.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "R 天富 全国连锁 便利店 TIANFU 便利店  寄存  畅优",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 40,
+        "image_path": "RCTW17\\RCTW17_image_2102.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "N1982 阳光 I Feel Thy Gaze Upon My Heart This Moment Like The Sunny Silence Of The Morning Upon The Lonely Field Whose Harvest Is Over. 人生 PASSUN1982 R 攀西阳光 R 阳光五星 干红葡萄酒 DRY RED WINE 酒精度：12.5%vol 净含量：750m",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 41,
+        "image_path": "RCTW17\\RCTW17_image_2103.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "聪明网吧",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 42,
+        "image_path": "RCTW17\\RCTW17_image_2105.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "桐木正山小种",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 43,
+        "image_path": "RCTW17\\RCTW17_image_2108.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "24k 男少 男主角 大光明 ",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 44,
+        "image_path": "RCTW17\\RCTW17_image_2110.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "福星惠誉 Fuxinghuiyu",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 45,
+        "image_path": "RCTW17\\RCTW17_image_2111.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "武汉大学 生命科学学院－－桂林三金 学生科学研究训练实验室 院附 武汉大学 生命科学学院－－桂林三金 教职工与学生活动中心",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 46,
+        "image_path": "RCTW17\\RCTW17_image_2114.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "低碳城市 宜居可持续 尚美．乐学 奉献 互助 友爱 进步",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 47,
+        "image_path": "RCTW17\\RCTW17_image_2115.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "盈采华庭",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 48,
+        "image_path": "RCTW17\\RCTW17_image_2116.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "31% 4G 22:26 交易详情 微信安全支付 支付成功 待A少了往日的激情 确认收钱 ￥ 4.68 完成",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 49,
+        "image_path": "RCTW17\\RCTW17_image_2119.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "云珊",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 50,
+        "image_path": "RCTW17\\RCTW17_image_2120.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "加强社会治安综合管理，构建和谐平安府 中共成都市青羊区府南街道工作 成都市青羊区人民政府府南街道  四川省妇幼保健院 关注矮小儿童 关爱儿童健康             ",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 51,
+        "image_path": "RCTW17\\RCTW17_image_2121.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "因桥梁施工、道路 施工，过往市民请绕行。 敬请谅解！ ",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 52,
+        "image_path": "RCTW17\\RCTW17_image_2122.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "MILO 米乐星世界KTV 米乐星世界KTV请上二楼 中国 梦 同心共筑中国梦 中国光谷 讲文明 树新风 公益广告 OPTICS VALLEY OF CHINA 携手共建文明城",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 53,
+        "image_path": "RCTW17\\RCTW17_image_2123.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "  大型建筑",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 54,
+        "image_path": "RCTW17\\RCTW17_image_2124.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "办公家具 白兰地 白兰地",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 55,
+        "image_path": "RCTW17\\RCTW17_image_2125.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "友谊花坊 订花电话：87871793",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 56,
+        "image_path": "RCTW17\\RCTW17_image_2126.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "入口 禁止吸烟 Way In No Smoking  ",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 57,
+        "image_path": "RCTW17\\RCTW17_image_2129.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "良品铺子 让嘴   EX0 AUSTBIA 0X0X  良品铺子  WATTING S  BESTORE S   良品铺子  良品铺子 良品铺子 年货就要挑好的   100积分  200 猴年就是   ",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 58,
+        "image_path": "RCTW17\\RCTW17_image_2130.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "   Vinda Vinda Vinda 1620  1800 加  省时 快捷",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 59,
+        "image_path": "RCTW17\\RCTW17_image_2131.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "洗车 二手车服务 抛光 福 打蜡",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 60,
+        "image_path": "RCTW17\\RCTW17_image_2133.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "复印 登记相 火疗 养生馆  寿像  老林 电机 电器 修理 寿衣  0元充值  ",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 61,
+        "image_path": "RCTW17\\RCTW17_image_2134.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "糖糖 2005 ",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 62,
+        "image_path": "RCTW17\\RCTW17_image_2135.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "水城羊肉粉 加盟电话：15827211433 川湘阁 炒菜 盖饭",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 63,
+        "image_path": "RCTW17\\RCTW17_image_2136.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "欢迎光临   招聘 服务员，工资    温馨提示： 小心地滑   冷霸    推 PUS 恒瑞",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 64,
+        "image_path": "RCTW17\\RCTW17_image_2140.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "  丝韵坊 竹行街 118 江 移 迎 ",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 65,
+        "image_path": "RCTW17\\RCTW17_image_2144.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "ME NN 如家酒店 停车敬告          这里有家 这里有你   ",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 66,
+        "image_path": "RCTW17\\RCTW17_image_2145.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "万达广场 车城大道 WANDA PLAZA Checheng Road 晨风路 Chenfeng Road  ",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 67,
+        "image_path": "RCTW17\\RCTW17_image_2146.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "嫒川 From Korea Domestic",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 68,
+        "image_path": "RCTW17\\RCTW17_image_2148.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "金陵体育 jinling sports R 国家免检产品 国驰名商标 H ® 金陵体育  ",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 69,
+        "image_path": "RCTW17\\RCTW17_image_2150.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "古韵古典秀 116  生意兴隆财",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 70,
+        "image_path": "RCTW17\\RCTW17_image_2151.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": " 车次    开点   4      检                        温馨提示： 为了您和他人的健康  请勿向外乱扔垃圾。 青岛啤酒 谢谢！ TSIMGTAO     ",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 71,
+        "image_path": "RCTW17\\RCTW17_image_2153.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": " 乒乓王国 认购福彩献",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 72,
+        "image_path": "RCTW17\\RCTW17_image_2154.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "餐厅 锅热干面早点系列",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 73,
+        "image_path": "RCTW17\\RCTW17_image_2155.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "武珞路 114附59 隐形助听器 自然 生活  天籁之声听力 小心台阶 拉  PULL PUSH 中国上海    百事达",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 74,
+        "image_path": "RCTW17\\RCTW17_image_2156.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "河边鸭子大排档 中餐 晚餐 订座电话：1376240190 13027461670   郎      454",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 75,
+        "image_path": "RCTW17\\RCTW17_image_2157.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "  富隆酒窖",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 76,
+        "image_path": "RCTW17\\RCTW17_image_2158.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "     中国邮政储蓄银行     ",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 77,
+        "image_path": "RCTW17\\RCTW17_image_2159.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "做人最重要的是开心 The most important person is happy",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 78,
+        "image_path": "RCTW17\\RCTW17_image_2160.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": " 怕晒 怕雨 禁止翻滚 堆码层数极限 易碎物品 ONKA康佳 创新生活每一天 现货 即买即提 佳液晶电视 Hisen 10 10  10",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 79,
+        "image_path": "RCTW17\\RCTW17_image_2161.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "请依次排队进入 西岭  ",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 80,
+        "image_path": "RCTW17\\RCTW17_image_2163.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "D 万达儿童乐园 wanda children‘s park",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 81,
+        "image_path": "RCTW17\\RCTW17_image_2166.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "柏斯琴行 PA PARSONS MUSIC    灵通  冲吧！ 冲吧  万达儿童乐园 万达儿童      帕斯嗨风暴 推 夏日购琴趴 PUSH      ",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 82,
+        "image_path": "RCTW17\\RCTW17_image_2170.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "LED防雨 电源 好想你    ESH   67877577  13545189997 15629103728 1552722  让  15827262525 13971537052  6122121   15337136366 13545189997",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 83,
+        "image_path": "RCTW17\\RCTW17_image_2174.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "蜜雪冰城 关注小蜜表白通道",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 84,
+        "image_path": "RCTW17\\RCTW17_image_2175.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "8767 VIP热线 ADD：光谷关山大道与雄楚大道交汇处",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 85,
+        "image_path": "RCTW17\\RCTW17_image_2176.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": " 航空售票（免费送票） 长途汽车票代售 TRAIN TICKET AGENCY   武汉铁路局旅行旅行服务公司      温馨提示 代理点不能退票和改签  火车票 汽车票 飞机票 全国联网现场出票",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 86,
+        "image_path": "RCTW17\\RCTW17_image_2177.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "   ￥99.90      恭贺新年 CHINESE NEW",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 87,
+        "image_path": "RCTW17\\RCTW17_image_2178.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": " 福城家教 爽滑饺子王 香酱饼     老广肠粉 ",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 88,
+        "image_path": "RCTW17\\RCTW17_image_2179.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "AMASS 阿玛施 EISS  ",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 89,
+        "image_path": "RCTW17\\RCTW17_image_2180.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "海澜之家 HLA HLA 海澜之家  海澜之家 68  68-128     68  短袖T恤",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 90,
+        "image_path": "RCTW17\\RCTW17_image_2181.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": " 瞧你傻样",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 91,
+        "image_path": "RCTW17\\RCTW17_image_2182.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "摊位 SPRAY PAINT",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 92,
+        "image_path": "RCTW17\\RCTW17_image_2184.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "仁义诚敬孝 第四届全国道德模范之 助人 为乐 大德耀中华",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 93,
+        "image_path": "RCTW17\\RCTW17_image_2186.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "easylake 武汉东湖 Wuhan East Lake 樱花园 Sakura Garden",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 94,
+        "image_path": "RCTW17\\RCTW17_image_2187.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "酒店 如家快捷酒店",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 95,
+        "image_path": "RCTW17\\RCTW17_image_2189.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "手机配件 1    0费率 0首付 与你的 渴望 ￥",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 96,
+        "image_path": "RCTW17\\RCTW17_image_2190.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "    Midea 美的 Midea 美的 正泰五金 ",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 97,
+        "image_path": "RCTW17\\RCTW17_image_2191.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "   修脚  16路 公交车      ",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 98,
+        "image_path": "RCTW17\\RCTW17_image_2194.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "万里香 毛嘴卤鸡 电话：15826939118 健康 安全 美味 东方阳篷 13477460004   卤鸡 ",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 99,
+        "image_path": "RCTW17\\RCTW17_image_2432.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": " 心头常记红绿灯 文明平安伴我行 武汉市精神文明建设指导委员会办 武汉市交通运输委员会",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 100,
+        "image_path": "RCTW17\\RCTW17_image_2433.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "福建东日建设",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 101,
+        "image_path": "RCTW17\\RCTW17_image_2436.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "吧 台球 好友圈 BEST 烧烤 FRII 酒吧 BBQ BBQ BAR",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 102,
+        "image_path": "RCTW17\\RCTW17_image_2438.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "修眉5元 化妆20元 放大中国眼   ",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 103,
+        "image_path": "RCTW17\\RCTW17_image_2439.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "品味茶艺 享受生活 清饮茶庄·茶道",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 104,
+        "image_path": "RCTW17\\RCTW17_image_2440.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "  银联卡特约商户 UnionPay 银联 欢迎光临 Welcome 服务热线：400-027-0899",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 105,
+        "image_path": "RCTW17\\RCTW17_image_2444.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "九土名烟 ",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 106,
+        "image_path": "RCTW17\\RCTW17_image_2445.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "中华老字号 遵义 贵州 薄冰羊肉粉 薄冰 贵州 BoBing BOBING LAMBMEAL 广埠屯店  薄冰 肉粉",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 107,
+        "image_path": "RCTW17\\RCTW17_image_2446.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "行业首家上市公司 松冈机电 MATSUOKA",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 108,
+        "image_path": "RCTW17\\RCTW17_image_2449.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "贩式KTV 三楼",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 109,
+        "image_path": "RCTW17\\RCTW17_image_2450.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "谁弄醒我 我弄死谁",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 110,
+        "image_path": "RCTW17\\RCTW17_image_2452.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "智能 停车 背景 音乐 周界 防范 88393367 Midea 美的 GREE LG 首义精英工馆 GREE GREE 格力 格力 格力",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 111,
+        "image_path": "RCTW17\\RCTW17_image_2453.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": " 无聊呀！出去兜兜风 看看有没有帅哥",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 112,
+        "image_path": "RCTW17\\RCTW17_image_2454.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "流行线 LiUXiNGXiAN HAiR SALON 园源首义路店",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 113,
+        "image_path": "RCTW17\\RCTW17_image_2455.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "尚品汇",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 114,
+        "image_path": "RCTW17\\RCTW17_image_2456.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "实强广告 珞2",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 115,
+        "image_path": "RCTW17\\RCTW17_image_2457.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "    全场羽绒服 mow茜舞 3.9折 00加49元则送指定商品一件！",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 116,
+        "image_path": "RCTW17\\RCTW17_image_2458.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "湖北邦尔  电话 京味香酱饼 京味香酱饼 13085136276 千层饼 鸡蛋饼 袁市分店 韭菜饼 手抓饼 南瓜饼 鸡柳卷 卤鸡蛋 热狗卷 包菜饼 牛奶饮料 电话：13385229849",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 117,
+        "image_path": "RCTW17\\RCTW17_image_2460.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": " 川A·371N6",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 118,
+        "image_path": "RCTW17\\RCTW17_image_2462.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "团子大家族 奥星体育 广八路 86附2",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 119,
+        "image_path": "RCTW17\\RCTW17_image_2463.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "三乐8居2单元 Sanle Teachers Residence 8-2 Haier海尔 二单元 通知           ",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 120,
+        "image_path": "RCTW17\\RCTW17_image_2464.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "橋南北證春秋 同里星级客栈 二0一四年一月 苏州市吴江区旅游局 同里古镇保护管理委员会",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 121,
+        "image_path": "RCTW17\\RCTW17_image_2465.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "宏灵塑胶 叉车吊车 13646258770 利息1分1起    W",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 122,
+        "image_path": "RCTW17\\RCTW17_image_2466.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "亨吉利世界名表中心 Jeep Jeep",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 123,
+        "image_path": "RCTW17\\RCTW17_image_2467.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "武汉首个精工审美系体验中心 现已开放 恭迎预约品鉴",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 124,
+        "image_path": "RCTW17\\RCTW17_image_2468.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "屈臣氏骨胶原  屈臣氏 sons ation 下一站 期待你的加入 watsons 职位空缺 副经理",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 125,
+        "image_path": "RCTW17\\RCTW17_image_2470.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "保利物业 杜绝高空抛物 争做文明市民     ",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 126,
+        "image_path": "RCTW17\\RCTW17_image_2473.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "时尚优雅浪漫",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 127,
+        "image_path": "RCTW17\\RCTW17_image_2474.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": " 泳帽 泳衣 泳镜 特价 救生圈 耳塞 鼻夹",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 128,
+        "image_path": "RCTW17\\RCTW17_image_2475.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "BUS 珞LUO喻YU路LU 地铁广埠屯站 ZHAN 物业管理费，中央空调费，水费公摊 国家电网   理，移动通信，节能环保  城 OPP",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 129,
+        "image_path": "RCTW17\\RCTW17_image_2476.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "R 糊米酒 豆花 豆浆",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 130,
+        "image_path": "RCTW17\\RCTW17_image_2477.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "empo Caffe tow 凭景区门票可 换免费 美咖一杯 请入店咨询  小时光   COFFEE try it!",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 131,
+        "image_path": "RCTW17\\RCTW17_image_2478.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "喜洋洋餐馆 订餐电话 15871885247 恭喜发财 千秋实集业兴隆 五福临门 经济小吃 欢迎光临 烟酒饮品",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 132,
+        "image_path": "RCTW17\\RCTW17_image_2479.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "森马 semir nv    SEMIR       韩国当红组合girls day 方敏雅",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 133,
+        "image_path": "RCTW17\\RCTW17_image_2480.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "省心延保服务 Extended Warranty Service 省钱 延保期内维修费用全免 省心 800元含以下电器即坏即换 维修＂0＂费用 省时间 一个电话帮您解决所有问题 详情请咨询顾客服务台 Please inquire at Customer Service desk for details",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 134,
+        "image_path": "RCTW17\\RCTW17_image_2481.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "Yizimi 伊之美整形 通知    拉 151 办证入网151 蓝光 633  拉 09339633  非手术无恒祛眼袋 独有专利技术  不开刀，不打针，20分钟即做即走   伊之美 整形美容 来自韩国的美丽 资阳市雁江区狮子路13号   ",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 135,
+        "image_path": "RCTW17\\RCTW17_image_2483.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "资阳市雁江区 地方税务局 请刷卡",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 136,
+        "image_path": "RCTW17\\RCTW17_image_2484.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "招纳处 都督府成立之初，四方志士前来投效，10月12日设立招纳处，以招募文武人 才，襄助军政。三日投效四百余人，三分之一经该处荐送都督府委用。10月13日，奉 都督府令改为集贤馆。",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 137,
+        "image_path": "RCTW17\\RCTW17_image_2487.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "秋叶三丁包 现磨豆浆 10 肉松饭团 蛋饼油条 现磨豆浆 现磨豆浆 12 12",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 138,
+        "image_path": "RCTW17\\RCTW17_image_2488.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "自然，不平凡 雅致的空间气息在稳稳的收敛中淡淡的飘逸出来 elegant space sense lighty flying over among steadly steadly reserveness。            2260 203",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 139,
+        "image_path": "RCTW17\\RCTW17_image_2489.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "糖粉糍粑 葱爆羊里脊",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 140,
+        "image_path": "RCTW17\\RCTW17_image_2492.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "乘一号电梯至六楼 会员中心善德文化 艺术瓷展示中心",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 141,
+        "image_path": "RCTW17\\RCTW17_image_2494.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "中部国旅WCI 旅    中部国旅入 入境游  国内游 中部国旅 武汉  社交型健 营业执照  创始会员 脉动     和路雪 租5送2 租3送1  每天可享  ",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 142,
+        "image_path": "RCTW17\\RCTW17_image_2495.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "名      禁止攀爬 No Climbing",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 143,
+        "image_path": "RCTW17\\RCTW17_image_2496.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "VALUE 升级 VALUF UP 饮品全面升级啦！ 加量不加价！ 500cc 360cc BestBite ",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 144,
+        "image_path": "RCTW17\\RCTW17_image_2497.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "好百年饭店 BeatCentu 十八大，讲文明树新风",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 145,
+        "image_path": "RCTW17\\RCTW17_image_2498.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "湖北省口腔医院 武 武大 口腔 武 口腔医院  A",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 146,
+        "image_path": "RCTW17\\RCTW17_image_2499.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "羊肉汤",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 147,
+        "image_path": "RCTW17\\RCTW17_image_2505.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "ZOOMLION 南 磨心塘路 建设 韵则 S Moxintang Rd",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 148,
+        "image_path": "RCTW17\\RCTW17_image_2506.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "国采光立方 LIGHT CUBE",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 149,
+        "image_path": "RCTW17\\RCTW17_image_2507.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "正宗 浏阳蒸菜馆 卡案海盗主题手抓餐吧 青峰      快吧  口味堂 便利店 麻辣烫      ",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 150,
+        "image_path": "RCTW17\\RCTW17_image_2509.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "纤指百媚美   ",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 151,
+        "image_path": "RCTW17\\RCTW17_image_2510.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "社会主义 核心价值观",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 152,
+        "image_path": "RCTW17\\RCTW17_image_2511.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": " 异形大决战    RAW       40 42     x6 x4   ",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 153,
+        "image_path": "RCTW17\\RCTW17_image_2513.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "kaka 用专业的心做专业的事 用专业的心做专业的事",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 154,
+        "image_path": "RCTW17\\RCTW17_image_2515.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "建党先声  响应五四反帝爱国运动  ",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 155,
+        "image_path": "RCTW17\\RCTW17_image_2516.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "百世汇通快递I BEST TM EXPRESS 全国客服热线 4009565656 www。800BESTEX.COM Midea 美的 鲜榨果汁  International Express 品牌箱包 高校团购 武汉 FedEx  有事隔壁 奶茶店找 式咖啡 Coffee ups",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 156,
+        "image_path": "RCTW17\\RCTW17_image_2518.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "2 Sourceme 发源地 发源地 欢迎你 发源地 ",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 157,
+        "image_path": "RCTW17\\RCTW17_image_2519.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "中国移动 E 19:47 31% 李宇春计生 生男生女都一样 成都县计划生育指导站宣",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 158,
+        "image_path": "RCTW17\\RCTW17_image_2522.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "吴江经济技术开发区（同里镇）数字电影广场",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 159,
+        "image_path": "RCTW17\\RCTW17_image_2523.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "渔满佳 特色中餐鲜活点啥 订餐电话",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 160,
+        "image_path": "RCTW17\\RCTW17_image_2525.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "武汉市 退休干部 军队离休 伏虎山休养所 进入电子监控区 限 15",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 161,
+        "image_path": "RCTW17\\RCTW17_image_2526.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "3F 星娱电玩7",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 162,
+        "image_path": "RCTW17\\RCTW17_image_2527.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "无菌砖 净含量／规格：250毫升",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 163,
+        "image_path": "RCTW17\\RCTW17_image_2529.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "奈萌妈  难吃的瓜子 统一零售价 286",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 164,
+        "image_path": "RCTW17\\RCTW17_image_2530.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "免费培训 网络最火热的赚钱项目 长按3秒，识别图中二维码 微信扫一扫马上赚钱",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 165,
+        "image_path": "RCTW17\\RCTW17_image_2531.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "88533W川     ",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 166,
+        "image_path": "RCTW17\\RCTW17_image_2534.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "艺诚玻璃         ",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 167,
+        "image_path": "RCTW17\\RCTW17_image_2537.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "郴州市第一中学 节",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 168,
+        "image_path": "RCTW17\\RCTW17_image_2540.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "武昌彭春阳西医内科诊所 登记号56558555242010617D2112 电话：027-87337814 J",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 169,
+        "image_path": "RCTW17\\RCTW17_image_2543.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "戈雅法餐厅",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 170,
+        "image_path": "RCTW17\\RCTW17_image_2545.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "简联智能家居",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 171,
+        "image_path": "RCTW17\\RCTW17_image_2546.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "  Midea  美的 S   的  香甜好米饭      美的香甜IH智能煲 美的 Midea 尖 serec 美的电饭锅 Midea 美的 易碎物品 向上",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 172,
+        "image_path": "RCTW17\\RCTW17_image_2547.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "中国移动 China Mobile",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 173,
+        "image_path": "RCTW17\\RCTW17_image_2548.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": " 瑞康沐足",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 174,
+        "image_path": "RCTW17\\RCTW17_image_2549.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "我无茶舍 竹雨松风琴韵 茶烟捂月书声",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 175,
+        "image_path": "RCTW17\\RCTW17_image_2550.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "24 林书豪中国行",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 176,
+        "image_path": "RCTW17\\RCTW17_image_2551.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "P 楚民大厦 Chumin Building",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 177,
+        "image_path": "RCTW17\\RCTW17_image_2552.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "zue   Galanz Galanz格兰仕 微波炉领袖 1098.00   Galanz  ",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 178,
+        "image_path": "RCTW17\\RCTW17_image_2553.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "县 SHAXIAN DELICACIES 小吃 沙县小吃 营养早餐 米饭套餐 药膳炖品 面食 营养馄饨",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 179,
+        "image_path": "RCTW17\\RCTW17_image_2554.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "任我释放 人汉武礼有 林书豪 adid",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 180,
+        "image_path": "RCTW17\\RCTW17_image_2555.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "Satan 星座融合餐厅 下午茶 创新菜 中西餐 m m",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 181,
+        "image_path": "RCTW17\\RCTW17_image_2559.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "遵德守礼 安全出行 文明礼让",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 182,
+        "image_path": "RCTW17\\RCTW17_image_2561.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "国家电网 STATE 电费咨询热线：3288395 国家电网 STATE GRID 国网仙桃供电公司干河供电营业所 ",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 183,
+        "image_path": "RCTW17\\RCTW17_image_2562.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "城市中央   3000元 珍稀江景豪宅 最高优惠 110-137平米零公摊超值户型，赠送面积高达约30平米 碧水源  2905888  ",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 184,
+        "image_path": "RCTW17\\RCTW17_image_2563.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "天泽农资",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 185,
+        "image_path": "RCTW17\\RCTW17_image_2564.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "翠微路 W Cuiwei Rd E 西 东 素菜馆 艺副食商店 0283 菜馆 正在营业",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 186,
+        "image_path": "RCTW17\\RCTW17_image_2569.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "施工期间给您带来的不便敬请谅解",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 187,
+        "image_path": "RCTW17\\RCTW17_image_2574.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "  万豪圣会水都休闲有限公",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 188,
+        "image_path": "RCTW17\\RCTW17_image_2576.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "飞扬智能手机俱乐 Android 中国移动|飞扬数码 指定维修服务中心 不开机维修 主板芯片维修 以旧换新 进水维修 现场维修检测 立等可取 手机坏了 放心交给我们吧",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 189,
+        "image_path": "RCTW17\\RCTW17_image_2577.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "工程实训中心 華中科技大学 U HUAZHONG UNIVERSITY OF SCIENCE AND TECHNOLOGY ENGINEER TRAINING CENTER",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 190,
+        "image_path": "RCTW17\\RCTW17_image_2578.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "长动项目片区道路改造安置办公室",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 191,
+        "image_path": "RCTW17\\RCTW17_image_2579.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "苏州水墨同里文化产业有限公司",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 192,
+        "image_path": "RCTW17\\RCTW17_image_2580.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "敢为人先追求卓越 封闭施工 请勿靠近 不便之处 敬请谅解 江西 江西建工宣",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 193,
+        "image_path": "RCTW17\\RCTW17_image_2581.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "人生最大的痛苦是什么？ 瞪着两眼珠子 一分也没抢到",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 194,
+        "image_path": "RCTW17\\RCTW17_image_2582.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "二重为日本某公司制造的 整铸立辊轧机机架",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 195,
+        "image_path": "RCTW17\\RCTW17_image_2583.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "药膳鸡煲 ",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 196,
+        "image_path": "RCTW17\\RCTW17_image_2584.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": " 百事达建筑装饰有限公司 BAISHIDAJIANZHUZHUANGSHIYOUXIANGONGSI 省时 省心 省力 微信扫一扫 专业设计：家装．工装．一体化 TEL:028-2612818 15983221319",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 197,
+        "image_path": "RCTW17\\RCTW17_image_2585.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "促销商品 年终水果预订  V 35元／件 库尔勒香梨（7斤）  库尔勒香梨（10斤）48元／件 80元／件 阿克苏冰糖心苹果 85元／件 整件雪梨 7元／斤（一件起卖） 正宗山东烟台红富士 480元／件 车厘子（10斤） 其它预订请进店咨询（以上均为整件预定价）  (1）充200元返还20元，卡内金额为 (2）充300元返还35元，卡内金额为 (3）充500元返还60元，卡内金额为 (4）充1000元返还150元，卡内金额 持VIP卡购买水果可以享受：",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 198,
+        "image_path": "RCTW17\\RCTW17_image_2587.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "188酒店公寓 千叶 酒楼 KEER 酒楼 SYAURAN 来我心里 挚爱之选 安妮·海瑟薇",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 199,
+        "image_path": "RCTW17\\RCTW17_image_2588.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "银泰百货 intime sale 夏款出清！    intime ONLY 屈臣氏 必胜客早餐 S  FE  必 鄂A·S02X5",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 200,
+        "image_path": "RCTW17\\RCTW17_image_2590.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "ITALY STYLE 晶 西点君笑 专业定制 完美打造 加盟 13554444542 热线．13476076989 富强 民主  自由 平等 公 爱国      ",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 201,
+        "image_path": "RCTW17\\RCTW17_image_2591.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "金色年 阿瓦隆电竞馆 AVAL  中国 ABC 量贩音乐会所 ",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 202,
+        "image_path": "RCTW17\\RCTW17_image_2592.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "金叶珠宝 叶 金叶珠宝       ",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 203,
+        "image_path": "RCTW17\\RCTW17_image_2593.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "疯狂烧烤 本土湘菜砂锅粥特色烧烤 TEL:2223345",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 204,
+        "image_path": "RCTW17\\RCTW17_image_2596.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "绝味 鸭脖 小碗菜  和谐 自由 平等 公 特  鸭 浓郁 更多选择 酱香 特别 推荐    卤味坊 每晚16:00后  消费满10元 绝 鸭脖连 蒸鸡蛋1元|份  鲜香麻辣 鸭脖 鸭脖 绝味 绝味 快七·小碗菜 更多选择 空调开放 正在营业中  美团 外卖 鲜香麻辣   更多选择 武汉 B3739",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 205,
+        "image_path": "RCTW17\\RCTW17_image_2597.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "武汉凯撒宫酒店管理有限公司",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 206,
+        "image_path": "RCTW17\\RCTW17_image_2598.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "30 全路段 全路段 全路段 全路段    ",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 207,
+        "image_path": "RCTW17\\RCTW17_image_2599.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "本店春节期间营业时间 除夕 开店时间 07:00 闭店时间 18:00 初一至初六 开店时间 10:00 闭店时间 19:00 初期恢复正常 since ken 仟 支 欢迎使用",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 208,
+        "image_path": "RCTW17\\RCTW17_image_2600.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "荷兰豆炒香肠 ￥22／份    唐人神香肠+荷兰豆无辣",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 209,
+        "image_path": "RCTW17\\RCTW17_image_2601.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "营养保健食品 NUTRITION HEALTH FOOD",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 210,
+        "image_path": "RCTW17\\RCTW17_image_2604.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "仙桃三十八分店  ",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 211,
+        "image_path": "RCTW17\\RCTW17_image_2606.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "东方通讯 精武 汗味精武鸭 汗味 技术加盟 15337197316 鸭脖",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 212,
+        "image_path": "RCTW17\\RCTW17_image_2680.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "卫生间 RESTROOM",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 213,
+        "image_path": "RCTW17\\RCTW17_image_2681.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "“鱼” 牛肉面 众不同的美味！",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 214,
+        "image_path": "RCTW17\\RCTW17_image_2682.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "年家   ",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 215,
+        "image_path": "RCTW17\\RCTW17_image_2684.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "新产品销售资格 精英团队12月3日前达标20000元人员！ 本月7号前3000元人员！ 本月14日前5000元人员！",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 216,
+        "image_path": "RCTW17\\RCTW17_image_2686.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "吴江蒙恩达精密五金有限公司",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 217,
+        "image_path": "RCTW17\\RCTW17_image_2687.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "禁止攀爬栏杆 红星蓝屏二锅头 超越经典有点柔",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 218,
+        "image_path": "RCTW17\\RCTW17_image_2688.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "俏CIA  ROCK",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 219,
+        "image_path": "RCTW17\\RCTW17_image_2690.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "每天锻炼一小时 幸福生活一辈子 文明使用公约：请爱护健身器材和公共体育设施",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 220,
+        "image_path": "RCTW17\\RCTW17_image_2696.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "仙桃市育才幼儿园小 比亚教育 BEXONG 音艺术 专注5岁－成人英语培训 丝笛萧主题专业连锁     地址：德政园中心花坛 复州花园北门第一排   电话：18995988846   ",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 221,
+        "image_path": "RCTW17\\RCTW17_image_2699.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "婴幼儿SPA水育乐园 爱儿乐 Aierle 恭 喜 妈妈我要克打古球 诚 招领班 1名 水育老师 3名 要求三心爱心责任 心细心有意者可  宝宝游泳早 情商智商高 工资面议 电话 15342898366 春节作息时间 腊月二十九至初三休息 上午九点至晚上六点 促进脑发育 提高免疫力",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 222,
+        "image_path": "RCTW17\\RCTW17_image_2701.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "永和 GHE CHI",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 223,
+        "image_path": "RCTW17\\RCTW17_image_2703.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "松石堂",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 224,
+        "image_path": "RCTW17\\RCTW17_image_2704.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "本店7号放假，13号 开门营业，祝亲爱的芝 蔓佳人们新年快乐。 电话：18080552127",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 225,
+        "image_path": "RCTW17\\RCTW17_image_2705.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "鑫美珠宝 宝 鑫美珠宝",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 226,
+        "image_path": "RCTW17\\RCTW17_image_2706.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "点亮个性 家居氛围 PHILIPS",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 227,
+        "image_path": "RCTW17\\RCTW17_image_2710.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "车城大道三段369号 附16号 西 ！乐快日节，康健体身属家及工职体全行银民人祝业物美佳",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 228,
+        "image_path": "RCTW17\\RCTW17_image_2711.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "   消防应急照明灯 HP/218   人物传记",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 229,
+        "image_path": "RCTW17\\RCTW17_image_2712.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "状元街 76 防群治保平安",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 230,
+        "image_path": "RCTW17\\RCTW17_image_2713.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "咏春 太极  Jia he real estate 家合不动 jia he real est 房屋买卖 房屋买卖 房屋租赁 027-87",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 231,
+        "image_path": "RCTW17\\RCTW17_image_2714.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "迎春接福 马年事事如愿人意 羊岁时时喜 房屋出租 福 电话：13349832860",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 232,
+        "image_path": "RCTW17\\RCTW17_image_2715.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "V W 川M·86256",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 233,
+        "image_path": "RCTW17\\RCTW17_image_2716.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "X 特步 非一般的感觉",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 234,
+        "image_path": "RCTW17\\RCTW17_image_2717.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "吉祥 如意 梅开白花之先 独天下而春",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 235,
+        "image_path": "RCTW17\\RCTW17_image_2718.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "节日快乐，每人一份",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 236,
+        "image_path": "RCTW17\\RCTW17_image_2719.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "武汉通 武昌南站客服点 WUHAN TONG Wuchang South Trailway Terminal Service Station 027 8",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 237,
+        "image_path": "RCTW17\\RCTW17_image_2720.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "今日百姓香锅",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 238,
+        "image_path": "RCTW17\\RCTW17_image_2722.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "当年情 港式餐厅 当年情 港式餐厅  中国农业银行  dong nin ching kestaurant 乐享周末 5折美食 农行信用卡 统统有   ",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 239,
+        "image_path": "RCTW17\\RCTW17_image_2723.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "树心旁 芝士小栈",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 240,
+        "image_path": "RCTW17\\RCTW17_image_2724.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "烤蔡甸臭干子 老武汉的味道",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 241,
+        "image_path": "RCTW17\\RCTW17_image_2725.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "扫一扫赢大奖 人人有奖免费送",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 242,
+        "image_path": "RCTW17\\RCTW17_image_2726.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "中国邮政储蓄银行 POSTAL SAVINGS BANK OF CHINA    自助银行服务 票数量有限买  实店 赚到！有意者可  ",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 243,
+        "image_path": "RCTW17\\RCTW17_image_2727.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "自动售票 Tickets 大象广告 Grand Image Advertising 热烈祝贺大象广告股份有限公司 证券代码 833738 证券简称大象股份 隆重挂牌 武汉地铁欢迎你 武汉地铁 欢迎你 04 武汉地铁欢 03 elcome to Wuhan Metro Welcome to W han Metro wlcome to Wuha",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 244,
+        "image_path": "RCTW17\\RCTW17_image_2733.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "雁江保安 防盗监控点 报警电话：028-26221357 狮子路 73 香丹清 珂妍胶囊 处方药 Rx   一次性购买 买2送  “清肠”请服香丹清 买3送 26366808 26366808 0vo   动物 07 888 131 剩余时间 ",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 245,
+        "image_path": "RCTW17\\RCTW17_image_2734.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "一切为了 学生发展",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 246,
+        "image_path": "RCTW17\\RCTW17_image_2735.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "全球早教领导品牌 my 美吉姆 GYM",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 247,
+        "image_path": "RCTW17\\RCTW17_image_2736.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "凡客假日宾馆 TEL 3335500 ",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 248,
+        "image_path": "RCTW17\\RCTW17_image_2737.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "哮喘医院  PuanPharm professional 普安药房 PuaPharm 普安药房 医保",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 249,
+        "image_path": "RCTW17\\RCTW17_image_2740.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "广东绿道 GD GREENWAY 绿道 GD GREENWAY",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 250,
+        "image_path": "RCTW17\\RCTW17_image_2741.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "gb kids station 好孩子星站 PUMA KIDS   new balance Kids did puma",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 251,
+        "image_path": "RCTW17\\RCTW17_image_2742.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "A301一A319 洗手间 饮水处",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 252,
+        "image_path": "RCTW17\\RCTW17_image_2743.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "   叶记粉馆 特色鳝鱼粉 秘制炸酱面 猪肝汤 牛肉面 金牌炒面 武汉热干面 阿旺热干面  豆腐脑",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 253,
+        "image_path": "RCTW17\\RCTW17_image_2744.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "5舍 5",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 254,
+        "image_path": "RCTW17\\RCTW17_image_2745.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "天道酬勤",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 255,
+        "image_path": "RCTW17\\RCTW17_image_2747.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "凌枫轩中式快餐 LFX",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 256,
+        "image_path": "RCTW17\\RCTW17_image_2748.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "H 今天很冷",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 257,
+        "image_path": "RCTW17\\RCTW17_image_2749.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "皇家气质   ",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 258,
+        "image_path": "RCTW17\\RCTW17_image_2750.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "3号楼 仓桥家 3F 世界城光谷步行街消费地图 人行步梯 升降机 自动电梯 Stairway Escalator Elevator 停车场－1/－2层 P 服务咨询热线：87803088 Park-1F/-2F Tel:87803088",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 259,
+        "image_path": "RCTW17\\RCTW17_image_2751.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "C 时尚广场 VOGUE SQUARE  时尚广场",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 260,
+        "image_path": "RCTW17\\RCTW17_image_2753.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "母 qinqin 亲亲宝贝baby",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 261,
+        "image_path": "RCTW17\\RCTW17_image_2757.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "灰指甲 康美尔乐 手机：1532716921322 00 花卷 创建全国文明城市 我奉献 我参与 我   格力 13545111008  15               63638777     86627789   1355  134 13554408886 87187795 63638777 67877577  61221211 15 153422615 13 15337136366 15927373 18271400066 13545111008 13545189997 厂门闸卷顺得开市汉武 15807177978",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 262,
+        "image_path": "RCTW17\\RCTW17_image_2758.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "新填街 231 同里古镇区居民赠票 取票处",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 263,
+        "image_path": "RCTW17\\RCTW17_image_2759.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "机械加工 电焊 氧焊 维修设备  专业打孔 水电安装 电器安装  1597350 1382 门前严车",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 264,
+        "image_path": "RCTW17\\RCTW17_image_2761.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "我亲爱的 看自拍视国语小片就加我吧 扫一扫上面的二维码图案，加我微信",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 265,
+        "image_path": "RCTW17\\RCTW17_image_2762.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "安顺花园",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 266,
+        "image_path": "RCTW17\\RCTW17_image_2763.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "走进欧洲 PAGUCI ITALY",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 267,
+        "image_path": "RCTW17\\RCTW17_image_2764.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": " 10 拉 Idrink 吾饮良品  Idrink  武汉水务集团",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 268,
+        "image_path": "RCTW17\\RCTW17_image_2765.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "外婆 4F  外婆 观光火车30元2圈 限一个小朋友和一个家长 ",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 269,
+        "image_path": "RCTW17\\RCTW17_image_2766.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "井巷子 Jing Alley 井巷子   Jing Alley",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 270,
+        "image_path": "RCTW17\\RCTW17_image_2768.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "宏光美家",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 271,
+        "image_path": "RCTW17\\RCTW17_image_2769.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "茶座 怡馨园 KTV  办证 13913090259 ",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 272,
+        "image_path": "RCTW17\\RCTW17_image_2773.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "禁 门口禁止 停车 车",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 273,
+        "image_path": "RCTW17\\RCTW17_image_2774.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "周大福 CH",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 274,
+        "image_path": "RCTW17\\RCTW17_image_2775.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "书法 彤彤烟酒 电话：13862188919",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 275,
+        "image_path": "RCTW17\\RCTW17_image_2776.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "一注",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 276,
+        "image_path": "RCTW17\\RCTW17_image_2778.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "活健康科学",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 277,
+        "image_path": "RCTW17\\RCTW17_image_2779.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": " 148 车辆自行装备好 装备不好青铜五 遗失概不负责 ",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 278,
+        "image_path": "RCTW17\\RCTW17_image_2780.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "一腔热血 十载寒窗 万丈豪情 百日苦练 我辈箭步登金榜 今朝英才夺桂冠 ",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 279,
+        "image_path": "RCTW17\\RCTW17_image_2786.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "红豆糍粑 心里都是相思",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 280,
+        "image_path": "RCTW17\\RCTW17_image_2787.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": " 资色绿泉山缝头石 缝头石 绿色资 石头缝山泉  石头缝 天然泉 4268 133397 厂址：钟祥市温峡九弯十八轭天然泉水厂 电话",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 281,
+        "image_path": "RCTW17\\RCTW17_image_2789.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "百姓快餐 快餐炒菜 炒菜 炒菜 快餐 热干面 行李寄存 可口可乐 招聘 厨师一名 详情进店咨询 凉茶 炒饭 火锅 盖饭 始祖 稀饭 包子 混沌 武昌鱼 蛋炒饭  王老吉 炒菜 让爱吉石回家  ",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 282,
+        "image_path": "RCTW17\\RCTW17_image_2791.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "纯住宅小区．稀缺 创建文明城市    建和谐社会 咨询 ",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 283,
+        "image_path": "RCTW17\\RCTW17_image_2793.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "奉献 友爱 进步 互助 特别推荐 星园 北方面食 7 最早的实物面条是由中国科学 ",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 284,
+        "image_path": "RCTW17\\RCTW17_image_2795.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": " 福  客房 茶事 FU JIA HOTEL",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 285,
+        "image_path": "RCTW17\\RCTW17_image_2796.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": " 至尊卡会员专享VIP俱乐部 ",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 286,
+        "image_path": "RCTW17\\RCTW17_image_2797.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "李元阴牙科诊所 9946",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 287,
+        "image_path": "RCTW17\\RCTW17_image_2798.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": " 发车时间联系电话 用 南充 南江县群团组织志愿服务站 下午2点 早上9点 1389 南江印象 开放在即 景观即将展现 1373 74555 信息中心 广播室  会计培训 电脑培训 1598277778  饮水处 小心地滑 XIAO XIN DI HUA ce B 诚信创 ",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 288,
+        "image_path": "RCTW17\\RCTW17_image_2800.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "敬业 社会主义核心 价值观 恪尽职守 乐业奉献 读万卷书，行万里路，在于一个”勤”。业精于勤，荒于嬉，工 作从业，同样也在于一个“勤”。中华民族最重要的品质中，“勤” 是诚 “劳”所占的地位尤其崇高。我们讲爱岗敬业、不计得失、服务奉献， 归根到底就是”勤”精神。 果，没 会诚信",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 289,
+        "image_path": "RCTW17\\RCTW17_image_2804.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "天府川菜 活鱼跳虾",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 290,
+        "image_path": "RCTW17\\RCTW17_image_2808.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "老五 LAO WU 老五烧烤 1995",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 291,
+        "image_path": "RCTW17\\RCTW17_image_2810.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "WORLD WHARF IMPORT SUPERMARKET 万国码头 进口优品超市 码头  TEL:027-87422696       茗同",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 292,
+        "image_path": "RCTW17\\RCTW17_image_2811.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "育美德少年 颂文明新风",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 293,
+        "image_path": "RCTW17\\RCTW17_image_2812.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": " Budweiser IR 百威，敬真我 Budweiser ASI 站在你的舞台，释放真正的你！ ICA MADE ERICA FOR MUSIC",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 294,
+        "image_path": "RCTW17\\RCTW17_image_2818.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "  湖北优畅娱乐有限公司",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 295,
+        "image_path": "RCTW17\\RCTW17_image_2822.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "SV0-2 GREE 创业团队服务站 SVO 中大创业实践基地 格力 推 推",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 296,
+        "image_path": "RCTW17\\RCTW17_image_2823.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "街道口地铁C出口",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 297,
+        "image_path": "RCTW17\\RCTW17_image_2824.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "水蜜桃汁 新鲜现榨 百分百纯果汁 更有第二杯6元  诚信 友善  绿   新品 081 文明 和谐 民主 富强 由 平等 敬 爱国 来自美国的创意 礼物     kaka kaka 畅想快乐 美味 健康",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 298,
+        "image_path": "RCTW17\\RCTW17_image_2825.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "回收电脑 15549079219 笔记本 液晶 主机 （好） 手机 （坏） ",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "RCTW17",
+        "id": 299,
+        "image_path": "RCTW17\\RCTW17_image_2826.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": " 清真   清真 MUSLIM RESTAURANT 兰州拉面 雪花 雪花 万家灯火 万家灯火",
+        "type": "OCR"
+    }
+]

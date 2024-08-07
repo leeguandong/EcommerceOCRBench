@@ -1,0 +1,235 @@
+[
+
+    {
+        "dataset_name": "plate",
+        "id": 8,
+        "image_path": "plate\\plate_10.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "粤AD50344",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "plate",
+        "id": 9,
+        "image_path": "plate\\plate_11.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "苏JD07904",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "plate",
+        "id": 10,
+        "image_path": "plate\\plate_12.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "苏JD09706",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "plate",
+        "id": 11,
+        "image_path": "plate\\plate_13.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "晋MD08275",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "plate",
+        "id": 15,
+        "image_path": "plate\\plate_18.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "苏JD09230",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "plate",
+        "id": 16,
+        "image_path": "plate\\plate_19.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "苏JD09305",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "plate",
+        "id": 19,
+        "image_path": "plate\\plate_2.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "晋MD05865",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "plate",
+        "id": 20,
+        "image_path": "plate\\plate_20.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "苏JD06502",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "plate",
+        "id": 21,
+        "image_path": "plate\\plate_21.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "湘AD25122",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "plate",
+        "id": 24,
+        "image_path": "plate\\plate_22.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "湘AD25139",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "plate",
+        "id": 26,
+        "image_path": "plate\\plate_23.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "粤BD96662",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "plate",
+        "id": 27,
+        "image_path": "plate\\plate_24.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "辽AD01108",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "plate",
+        "id": 28,
+        "image_path": "plate\\plate_25.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "粤BDJ6533",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "plate",
+        "id": 29,
+        "image_path": "plate\\plate_26.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "陕AD32032",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "plate",
+        "id": 32,
+        "image_path": "plate\\plate_27.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "闽AD00735",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "plate",
+        "id": 33,
+        "image_path": "plate\\plate_28.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "陕AD36371",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "plate",
+        "id": 34,
+        "image_path": "plate\\plate_29.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "闽AD09412",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "plate",
+        "id": 38,
+        "image_path": "plate\\plate_3.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "粤AD57054",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "plate",
+        "id": 39,
+        "image_path": "plate\\plate_31.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "津AD20132",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "plate",
+        "id": 40,
+        "image_path": "plate\\plate_32.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "津AD31897",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "plate",
+        "id": 41,
+        "image_path": "plate\\plate_33.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "陕AD37139",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "plate",
+        "id": 45,
+        "image_path": "plate\\plate_35.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "桂BD40965",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "plate",
+        "id": 48,
+        "image_path": "plate\\plate_39.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "粤AD19803",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "plate",
+        "id": 51,
+        "image_path": "plate\\plate_4.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "粤AD80370",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "plate",
+        "id": 56,
+        "image_path": "plate\\plate_5.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "粤AD50647",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "plate",
+        "id": 63,
+        "image_path": "plate\\plate_6.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "粤AD76353",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "plate",
+        "id": 68,
+        "image_path": "plate\\plate_7.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "粤AD75625",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "plate",
+        "id": 73,
+        "image_path": "plate\\plate_8.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "粤AD71927",
+        "type": "OCR"
+    },
+    {
+        "dataset_name": "plate",
+        "id": 78,
+        "image_path": "plate\\plate_9.jpg",
+        "question": "这张图上的文字是什么？",
+        "answers": "粤AD58762",
+        "type": "OCR"
+    }
+]
